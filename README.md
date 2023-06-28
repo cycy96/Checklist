@@ -1,7 +1,7 @@
 # Checklist App
-Checklist—a useful App for organizing and managing tasks. A checklist is a simple and effective way to ensure that important steps are not overlooked. Whether it's for personal use or professional projects, a checklist can be a valuable asset in managing tasks effectively.
+Checklist — a useful App for organizing and managing tasks. A checklist is a simple and effective way to ensure that important steps are not overlooked. Whether it's for personal use or professional projects, a checklist can be a valuable asset in managing tasks effectively.
 
-![Ipad](https://github.com/cycy96/Checklist/assets/127811480/d886c293-0c05-4409-ba68-bb60b0cbc82b)
+![Ipad (1)](https://github.com/cycy96/Checklist/assets/127811480/233953f5-123f-449e-b5c8-cb2a53e926c1)
 
 
 # Technologies used
@@ -34,3 +34,8 @@ Give a ⭐️ if you like this project!
 This is a simple Checklist application to demonstrate my React knowledge.
 <br>
 Front-end project only, backend not included.
+
+# Author
+Leong Chee Yan
+<br>
+https://github.com/cycy96 
