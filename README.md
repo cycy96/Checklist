@@ -26,14 +26,14 @@ To view a live example, follow this link: [checklisttt.netlify.app/](https://che
       <img alt="Netlify deploy status" src="https://api.netlify.com/api/v1/badges/d4c024ed-0cc2-46af-890b-1ef998289a17/deploy-status">
     </a>
   </p>
-  
-# Show your support
-Give a ⭐️ if you like this project!
 
 # Message to share
 This is a simple Checklist application to demonstrate my React knowledge.
 <br>
 Front-end project only, backend not included.
+ 
+# Show your support
+Give a ⭐️ if you like this project!
 
 # Author
 Leong Chee Yan
